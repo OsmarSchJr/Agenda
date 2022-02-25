@@ -1,0 +1,17 @@
+.btn {
+    margin-right: 5px;
+}
+
+.MarkAsDone {
+    text-decoration: line-through;
+    color: #777;
+}
+
+.tableActions {
+    width: 105px;
+
+}
+
+.agendaForm {
+    padding: 65px;
+}
